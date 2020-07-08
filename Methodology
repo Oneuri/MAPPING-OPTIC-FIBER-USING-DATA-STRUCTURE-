@@ -1,0 +1,40 @@
+Problem: Laying fiber cable across town 
+Solution: 
+1. creates a graph with nodes as area cabinets.
+2.create weighted edges as paths from one node to another. 
+3.select paths to Connect the base with each node.
+
+Time complexity: O(nlog(n))
+
+Implimentation Steps:
+Step1: Enter choice
+Step 2:Load database
+
+Step 3:Display
+Step 4:Edges/nodes
+
+Step 5:Add edge/node
+
+Step 6:calculate and display MST
+
+Step 7:Continue?
+
+
+1. most applications simulating maps use weighted graphs.
+Eg: Google maps
+
+Whats unique in our project?
+1.open source
+
+2.minimalist
+
+3.easy to implement and use
+
+4.Easier for small scale networks
+
+5. Complete object oriented(no global variables or public).
+
+6. Efficient (no nested for loops).
+
+7. Realtime database (can edit from both program and database).
+
