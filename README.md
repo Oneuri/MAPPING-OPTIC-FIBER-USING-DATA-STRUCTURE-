@@ -13,3 +13,4 @@ In order to establish a fiber optic network an underground network of tunnels is
 
 
 
+It is an application which determines the minimum path to be followed by ﬁber optics between two stations! It is based on Kruskal's algorithm in data structure to analyse Nodes as well as to ﬁnd MST!
